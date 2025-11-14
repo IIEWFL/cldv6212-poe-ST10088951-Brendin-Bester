@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ABC_Retail_WebApp.Models.QueueLogViewModel>
+
+<h2>Log Messages</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Message ID</th>
+            <th>Insertion Time</th>
+            <th>Message</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+            <tr>
+                <td>@log.MessageId</td>
+                <td>@log.InsertionTime</td>
+                <td>@log.MessageText</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="ExportLog">
+    <button type="submit" class="btn btn-primary">Export Log Report</button>
+</form>
+

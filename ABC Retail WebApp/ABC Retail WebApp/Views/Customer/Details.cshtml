@@ -1,0 +1,35 @@
+﻿@model ABC_Retail_WebApp.Models.Customer
+
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<h2>Customer Details</h2>
+
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Photo URL</dt>
+        <dd class="col-sm-10"><img src=@Model.Customerphoto alt=@Model.FirstName</dd>
+
+        <dt class="col-sm-2">Department</dt>
+        <dd class="col-sm-10">@Model.CustomerId</dd>
+
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.FirstName</dd>
+
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.LastName</dd>
+
+        <dt class="col-sm-2">Position</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+
+        
+
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-partitionKey="@Model.PartitionKey" asp-route-rowKey="@Model.RowKey">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

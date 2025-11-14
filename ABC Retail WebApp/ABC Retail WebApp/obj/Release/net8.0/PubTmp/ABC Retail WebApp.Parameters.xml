@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="abcretailst10088951" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Brendin\ Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC\ Retail\ WebApp\\ABC\ Retail\ WebApp\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

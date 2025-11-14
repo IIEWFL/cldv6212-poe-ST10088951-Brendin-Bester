@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\models\\queuelogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\models\\queuelogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\services\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\services\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|c:\\users\\brendin bester\\desktop\\cldv6212-part-2-st10088951-brendin-bester-main\\abc retail webapp\\abc retail webapp\\views\\customer\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{766688B3-9638-4316-892D-E07481FBD65A}|ABC Retail WebApp\\ABC Retail WebApp.csproj|solutionrelative:abc retail webapp\\views\\customer\\log.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\FunctionService.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Services\\FunctionService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:48:31.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Program.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:19:06.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:42:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:01:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\appsettings.Development.json",
+              "RelativeToolTip": "ABC Retail WebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T09:11:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\appsettings.json",
+              "RelativeToolTip": "ABC Retail WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T10:19:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueLogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\QueueLogViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Models\\QueueLogViewModel.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\QueueLogViewModel.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Models\\QueueLogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:59:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:01:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Models\\Customer.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:45:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Services\\BlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:54.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileShareStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\FileShareStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Services\\FileShareStorageService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\FileShareStorageService.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Services\\FileShareStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:22:32.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Services\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\QueueStorageService.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Services\\QueueStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:57:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "ABC Retail WebApp\\Services\\TableStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:09:17.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "ABC Retail WebApp\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:22:42.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "ABC Retail WebApp\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:33:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Log.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Log.cshtml",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Views\\Customer\\Log.cshtml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Log.cshtml",
+              "RelativeToolTip": "ABC Retail WebApp\\Views\\Customer\\Log.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T08:08:15.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retail WebApp\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Brendin Bester\\Desktop\\cldv6212-part-2-ST10088951-Brendin-Bester-main\\ABC Retail WebApp\\ABC Retail WebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "ABC Retail WebApp\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:55:11.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.AssemblyReference.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfoInputs.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.runtime.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.endpoints.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.exe
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.deps.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.runtimeconfig.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\bundle\ABC Retail WebApp.styles.css
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\projectbundle\ABC Retail WebApp.bundle.scp.css
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Reta.F5432E86.Up2Date
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\refint\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.genruntimeconfig.cache
+C:\Users\Brendin Bester\Desktop\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ref\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.endpoints.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.runtime.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.exe
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.deps.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.runtimeconfig.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.AssemblyReference.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfoInputs.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.sourcelink.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\bundle\ABC Retail WebApp.styles.css
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\projectbundle\ABC Retail WebApp.bundle.scp.css
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Reta.F5432E86.Up2Date
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\refint\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.genruntimeconfig.cache
+C:\Users\Brendin Bester\Desktop\CLDV\ST10088951_CLDV6212_POE_PART1\cldv6212-part-1-ST10088951-Brendin-Bester\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ref\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.runtime.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.staticwebassets.endpoints.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.exe
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.deps.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.runtimeconfig.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Data.Tables.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Files.Shares.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.AssemblyReference.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfoInputs.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.AssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.RazorAssemblyInfo.cs
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\bundle\ABC Retail WebApp.styles.css
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\scopedcss\projectbundle\ABC Retail WebApp.bundle.scp.css
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Reta.F5432E86.Up2Date
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\refint\ABC Retail WebApp.dll
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.pdb
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ABC Retail WebApp.genruntimeconfig.cache
+C:\Users\Brendin Bester\Desktop\cldv6212-part-2-ST10088951-Brendin-Bester-main\ABC Retail WebApp\ABC Retail WebApp\obj\Debug\net8.0\ref\ABC Retail WebApp.dll
